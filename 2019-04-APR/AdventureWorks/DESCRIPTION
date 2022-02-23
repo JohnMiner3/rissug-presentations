@@ -1,9 +1,0 @@
-Package: AdventureWorks
-Type: Package
-Title: AdventureWorks Common
-Version: 1.0
-Date: 2019-01-14
-Author: John Flannery
-Maintainer: John Flannery<jflanner@comcast.net>
-Description: Common Utilities Used in AdventureWorks R
-License: GPL
